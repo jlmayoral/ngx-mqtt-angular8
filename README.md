@@ -1,7 +1,7 @@
 # Ngx-Mqtt-Angular8
 
 This is a update of Ngx-Mqtt from Angular 6 to Angular 8.
-The code is from sclausen: https://github.com/sclausen/ngx-mqtt/issues/138#issuecomment-518864573
+The code is from sclausen: https://github.com/sclausen/ngx-mqtt
 Have changes to work with Angular 8 and a small example to test.
 
 sclausen can find the changes and update the original project ngx-mqtt. 
